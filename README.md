@@ -31,7 +31,7 @@ You've been assigned to a three or four person team. For the duration of capston
 - A half-hour one-on-one with your PM
 
 #### Daily
-- In lieu of formal standups with your PMs, you will complete this [daily checkin form](https://goo.gl/forms/edpg44h0ig3FZlQg1) __before noon Monday through Friday, and once over the weekend.__ This is a non-negotiable requirement.
+- In lieu of formal standups with your PMs, you will complete this [daily checkin form](https://goo.gl/forms/lNgXjWintTHJZ5yx1) __before noon Monday through Friday, and once over the weekend.__ This is a non-negotiable requirement.
 
 ### Final Delivery
 The Capstone Project consists of the following components:
