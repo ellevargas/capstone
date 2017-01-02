@@ -10,7 +10,8 @@ The second deliverable for the capstone is your product plan.
   - Apps such as Tassl, Hivebrite, 360Alumni, and the ever-popular Almabase
   - These apps tend to handle functions such as job boards, mentor matching, email and social media integration, and analytics
   - They are known in their communities for their intuitive and elegant designs, ease-of-use, searchability, and accessibility  
-  **Problems with Competitors:**  
+  
+  **Competitor Problems:**  
   - To get an alumni app with all the features you want, customer support, ease of use, and seamless integration, prepare to pay through the nose (Almabase seems to be leading in app satisfaction, but it also costs $3600 a year, which would drain money from a nonprofit like Ada)
   - Competitors like Hivebrite not only charge, but they don't have a single woman on their team, and that lack of diversity/missing perspective could negatively impact an app's UX and design (particularly for a school like Ada)  
   
