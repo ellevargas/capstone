@@ -37,17 +37,20 @@ The second deliverable for the capstone is your product plan.
   + [AWS](https://aws.amazon.com/) Web Server
   + [PostgreSQL](https://www.postgresql.org/) Database
   + Faker Gem (fake data for testing/seeding)
-  + Paperclip Gem (image management)
+  + Paperclip Gem (image management)  
+
 **Front-end**
   + [React](https://facebook.github.io/react/) UI Library
   + [Foundation](https://foundation.zurb.com/) CSS Framework
   + [JavaScript](https://www.javascript.com/)
   + [jQuery](https://jquery.com/)
-  + Kaminari Gem (pagination)
+  + Kaminari Gem (pagination)  
+
 **Infrastructure**
   + [AWS](https://aws.amazon.com/websites/) Hosting
   + [Jenkins](https://jenkins.io/) Automated Build Deployment
-  + [Sentry](https://sentry.io/welcome/) Real-time crash reporting
+  + [Sentry](https://sentry.io/welcome/) Real-time crash reporting  
+
 **Security**
   + [Let's Encrypt](https://letsencrypt.org/) TLS/SSL Certificate Authority
   + [Stormpath](https://stormpath.com/) User Management, Authorization, and OAuth 2.0
