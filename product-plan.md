@@ -6,16 +6,16 @@ The second deliverable for the capstone is your product plan.
 
 1. __Market Research__: Outline the key insights from your research, including:  
 
-  **Competition**  
+  **Competition:**  
   - Apps such as Tassl, Hivebrite, 360Alumni, and the ever-popular Almabase
   - These apps tend to handle functions such as job boards, mentor matching, email and social media integration, and analytics
   - They are known in their communities for their intuitive and elegant designs, ease-of-use, searchability, and accessibility  
   
-  **Problems with Competitors**  
+  **Problems with Competitors:**  
   - To get an alumni app with all the features you want, customer support, ease of use, and seamless integration, prepare to pay through the nose (Almabase seems to be leading in app satisfaction, but it also costs $3600 a year, which would drain money from a nonprofit like Ada)
   - Competitors like Hivebrite not only charge, but they don't have a single woman on their team, and that lack of diversity/missing perspective could negatively impact an app's UX and design (particularly for a school like Ada)  
   
-  **Problem Resolutions**  
+  **How Lovelace Fits:**  
   - Lovelace would not only simplify internal communications and provide basic information for visitors, but it is written in a language shared by its alumni and features can be added to it as needed
   
 1. __User Personas__: A summary of your main target user group(s). What are their key characteristics? How do those characteristics factor into project/app/idea?  
@@ -55,6 +55,3 @@ The second deliverable for the capstone is your product plan.
   
 1. __Wireframes__:
   - Any format you may like - photos of paper, online tool and/or paper to show your instructors
-
-## Format
-Since the Product Plan is part of your final deliverable and should be included in your repository, it would be easiest to do this initial draft in a markdown format for easy transferability to GitHub.
