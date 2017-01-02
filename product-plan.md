@@ -32,26 +32,26 @@ The second deliverable for the capstone is your product plan.
   
 1. __Technology selections__:  
 
-**Back-end**
+  **Back-end**
   + [Ruby on Rails](http://rubyonrails.org/)
   + [AWS](https://aws.amazon.com/) Web Server
   + [PostgreSQL](https://www.postgresql.org/) Database
   + Faker Gem (fake data for testing/seeding)
   + Paperclip Gem (image management)  
 
-**Front-end**
+  **Front-end**
   + [React](https://facebook.github.io/react/) UI Library
   + [Foundation](https://foundation.zurb.com/) CSS Framework
   + [JavaScript](https://www.javascript.com/)
   + [jQuery](https://jquery.com/)
   + Kaminari Gem (pagination)  
 
-**Infrastructure**
+  **Infrastructure**
   + [AWS](https://aws.amazon.com/websites/) Hosting
   + [Jenkins](https://jenkins.io/) Automated Build Deployment
   + [Sentry](https://sentry.io/welcome/) Real-time crash reporting  
 
-**Security**
+  **Security**
   + [Let's Encrypt](https://letsencrypt.org/) TLS/SSL Certificate Authority
   + [Stormpath](https://stormpath.com/) User Management, Authorization, and OAuth 2.0
   + [Cloudsploit](https://cloudsploit.com/) Automated AWS Security & Configuration Monitoring
