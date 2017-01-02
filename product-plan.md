@@ -12,7 +12,7 @@ The second deliverable for the capstone is your product plan.
   - They are known in their communities for their intuitive and elegant designs, ease-of-use, searchability, and accessibility  
   
   **Competitor Problems:**  
-  - To get an alumni app with all the features you want, customer support, ease of use, and seamless integration, prepare to pay through the nose (Almabase seems to be leading in app satisfaction, but it also costs $3600 a year, which would drain money from a nonprofit like Ada)
+  - To get an alumni app with all the desired features, customer support, ease of use, and seamless integration, prepare to pay through the nose (Almabase seems to be leading in app satisfaction, but it also costs $3600 a year, which would drain money from a nonprofit like Ada)
   - Competitors like Hivebrite not only charge, but they don't have a single woman on their team, and that lack of diversity/missing perspective could negatively impact an app's UX and design (particularly for a school like Ada)  
   
   **How Lovelace Fits:**  
