@@ -27,8 +27,8 @@ The second deliverable for the capstone is your product plan.
   - Identify as women, non-binary, and/or genderqueer (the app should have gender-neutral language and its tone must be inclusive and self-aware)
   - Staff work for a nonprofit and are managing heavy loads (the app should allow students to view past students' tech stacks for capstones, make initial contact with their mentors, and locate Adies who interned at companies they are curious about to take stress off of staff)  
   
-1. __Trello Board__:
-  - Flesh out the feature set that you created in the conceptual delivery to get started with your Trello board  
+1. __Trello Board__: [Lives Here](https://trello.com/b/aZiOHW9j/lovelace)  
+
   
 1. __Technology selections__:  
 
