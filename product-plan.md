@@ -6,7 +6,7 @@ The second deliverable for the capstone is your product plan.
 
 1. __Market Research__: Outline the key insights from your research, including:  
 
-  **Competition:**  
+  **Competitors:**  
   - Apps such as Tassl, Hivebrite, 360Alumni, and the ever-popular Almabase
   - These apps tend to handle functions such as job boards, mentor matching, email and social media integration, and analytics
   - They are known in their communities for their intuitive and elegant designs, ease-of-use, searchability, and accessibility  
