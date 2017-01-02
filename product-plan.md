@@ -31,7 +31,7 @@ The second deliverable for the capstone is your product plan.
   - Flesh out the feature set that you created in the conceptual delivery to get started with your Trello board  
   
 1. __Technology selections__:
- + Back-end
++ Back-end
   + [Ruby on Rails](http://rubyonrails.org/)
   + [AWS](https://aws.amazon.com/) Web Server
   + [PostgreSQL](https://www.postgresql.org/) Database
