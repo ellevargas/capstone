@@ -16,7 +16,7 @@ The second deliverable for the capstone is your product plan.
   - Competitors like Hivebrite not only charge, but they don't have a single woman on their team, and that lack of diversity/missing perspective could negatively impact an app's UX and design (particularly for a school like Ada)  
   
   **How Lovelace Fits:**  
-  - Lovelace would not only simplify internal communications and provide basic information for visitors, but it is written in a language shared by its alumni and features can be added to it as needed
+  - Lovelace would not only simplify Ada's internal communications and provide basic information for visitors, but it is written in a language shared by its alumni and features can be added to it as needed
   
 1. __User Personas__: A summary of your main target user group(s). What are their key characteristics? How do those characteristics factor into project/app/idea?  
 
