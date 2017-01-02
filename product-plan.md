@@ -10,7 +10,6 @@ The second deliverable for the capstone is your product plan.
   - Apps such as Tassl, Hivebrite, 360Alumni, and the ever-popular Almabase
   - These apps tend to handle functions such as job boards, mentor matching, email and social media integration, and analytics
   - They are known in their communities for their intuitive and elegant designs, ease-of-use, searchability, and accessibility  
-  
   **Problems with Competitors:**  
   - To get an alumni app with all the features you want, customer support, ease of use, and seamless integration, prepare to pay through the nose (Almabase seems to be leading in app satisfaction, but it also costs $3600 a year, which would drain money from a nonprofit like Ada)
   - Competitors like Hivebrite not only charge, but they don't have a single woman on their team, and that lack of diversity/missing perspective could negatively impact an app's UX and design (particularly for a school like Ada)  
@@ -30,24 +29,25 @@ The second deliverable for the capstone is your product plan.
 1. __Trello Board__:
   - Flesh out the feature set that you created in the conceptual delivery to get started with your Trello board  
   
-1. __Technology selections__:
-+ Back-end
+1. __Technology selections__:  
+
+**Back-end**
   + [Ruby on Rails](http://rubyonrails.org/)
   + [AWS](https://aws.amazon.com/) Web Server
   + [PostgreSQL](https://www.postgresql.org/) Database
   + Faker Gem (fake data for testing/seeding)
   + Paperclip Gem (image management)
-+ Front-end
+**Front-end**
   + [React](https://facebook.github.io/react/) UI Library
   + [Foundation](https://foundation.zurb.com/) CSS Framework
   + [JavaScript](https://www.javascript.com/)
   + [jQuery](https://jquery.com/)
   + Kaminari Gem (pagination)
-+ Infrastructure
+**Infrastructure**
   + [AWS](https://aws.amazon.com/websites/) Hosting
   + [Jenkins](https://jenkins.io/) Automated Build Deployment
   + [Sentry](https://sentry.io/welcome/) Real-time crash reporting
-+ Security
+**Security**
   + [Let's Encrypt](https://letsencrypt.org/) TLS/SSL Certificate Authority
   + [Stormpath](https://stormpath.com/) User Management, Authorization, and OAuth 2.0
   + [Cloudsploit](https://cloudsploit.com/) Automated AWS Security & Configuration Monitoring
