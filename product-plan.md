@@ -30,7 +30,7 @@ The second deliverable for the capstone is your product plan.
 1. __Trello Board__: [Lives Here](https://trello.com/b/aZiOHW9j/lovelace)  
 
   
-1. __Technology selections__:  
+1. __Technology Stack__:  
 
   **Back-end**
   + [Ruby on Rails](http://rubyonrails.org/)
