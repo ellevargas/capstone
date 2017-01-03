@@ -57,5 +57,4 @@ The second deliverable for the capstone is your product plan.
   + [Cloudsploit](https://cloudsploit.com/) Automated AWS Security & Configuration Monitoring
   + [Brakeman Gem](https://github.com/presidentbeef/brakeman) OR [Dawnscanner Gem](https://github.com/thesp0nge/dawnscanner) OS static analysis tool which checks RoR apps for security vulnerabilities
   
-1. __Wireframes__:
-  - Any format you may like - photos of paper, online tool and/or paper to show your instructors
+1. __Wireframes__: [Live Here](https://goo.gl/photos/hf4nV2WWU9GnW89L9)
