@@ -49,12 +49,13 @@ The second deliverable for the capstone is your product plan.
   **Infrastructure**
   + [AWS](https://aws.amazon.com/websites/) Hosting
   + [Jenkins](https://jenkins.io/) Automated Build Deployment
-  + [Sentry](https://sentry.io/welcome/) Real-time crash reporting  
+  + [Minitest](https://github.com/seattlerb/minitest) The Miracle of Unit Testing
+  + *Non-MVP: [Sentry](https://sentry.io/welcome/) Real-time crash reporting*  
 
   **Security**
   + [Let's Encrypt](https://letsencrypt.org/) TLS/SSL Certificate Authority
   + [Stormpath](https://stormpath.com/) User Management, Authorization, and OAuth 2.0
-  + [Cloudsploit](https://cloudsploit.com/) Automated AWS Security & Configuration Monitoring
-  + [Brakeman Gem](https://github.com/presidentbeef/brakeman) OR [Dawnscanner Gem](https://github.com/thesp0nge/dawnscanner) OS static analysis tool which checks RoR apps for security vulnerabilities
+  + [Brakeman Gem](https://github.com/presidentbeef/brakeman) OS static analysis tool which checks RoR apps for security vulnerabilities
+  + *Non-MVP: [Cloudsploit](https://cloudsploit.com/) Automated AWS Security & Configuration Monitoring*  
   
 1. __Wireframes__: [Live Here](https://goo.gl/photos/hf4nV2WWU9GnW89L9)
