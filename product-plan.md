@@ -36,7 +36,6 @@ The second deliverable for the capstone is your product plan.
   + [Ruby on Rails](http://rubyonrails.org/)
   + [AWS](https://aws.amazon.com/) Web Server
   + [PostgreSQL](https://www.postgresql.org/) Database
-  + Faker Gem (fake data for testing/seeding)
   + Paperclip Gem (image management)  
 
   **Front-end**
@@ -47,13 +46,11 @@ The second deliverable for the capstone is your product plan.
   + Kaminari Gem (pagination)  
 
   **Infrastructure**
-  + [AWS](https://aws.amazon.com/websites/) Hosting
+  + [AWS](https://aws.amazon.com/websites/) Hosting & TLS/SSL
   + [Jenkins](https://jenkins.io/) Automated Build Deployment
   + [Minitest](https://github.com/seattlerb/minitest) The Miracle of Unit Testing
-  + *Non-MVP: [Sentry](https://sentry.io/welcome/) Real-time crash reporting*  
 
   **Security**
-  + [Let's Encrypt](https://letsencrypt.org/) TLS/SSL Certificate Authority
   + [Stormpath](https://stormpath.com/) User Management, Authorization, and OAuth 2.0
   + [Brakeman Gem](https://github.com/presidentbeef/brakeman) OS static analysis tool which checks RoR apps for security vulnerabilities
   + *Non-MVP: [Cloudsploit](https://cloudsploit.com/) Automated AWS Security & Configuration Monitoring*  
