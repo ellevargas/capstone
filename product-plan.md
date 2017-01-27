@@ -35,15 +35,12 @@ The second deliverable for the capstone is your product plan.
   **Back-end**
   + [Ruby on Rails](http://rubyonrails.org/)
   + [AWS](https://aws.amazon.com/) Web Server
-  + [PostgreSQL](https://www.postgresql.org/) Database
-  + Paperclip Gem (image management)  
-
-  **Front-end**
-  + [React](https://facebook.github.io/react/) UI Library
+  + [PostgreSQL](https://www.postgresql.org/) Database    
+  
+  **Front-end**  
   + [Foundation](https://foundation.zurb.com/) CSS Framework
   + [JavaScript](https://www.javascript.com/)
-  + [jQuery](https://jquery.com/)
-  + Kaminari Gem (pagination)  
+  + [jQuery](https://jquery.com/)  
 
   **Infrastructure**
   + [AWS](https://aws.amazon.com/websites/) Hosting & TLS/SSL
